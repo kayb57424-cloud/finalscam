@@ -28,10 +28,7 @@ SECRET_KEY = 'django-insecure-+xc9n#)u3*e85(#^o7&0!h1+iz_7z1*q2lvswe%^$v+z6h71ty
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "scam-detector-1-m22a.onrender.com",
-    "localhost",
-    "127.0.0.1",
-    "finalscam-production.up.railway.app",
+   "*"
 ]
 
 # CORS & SESSION SETTINGS
