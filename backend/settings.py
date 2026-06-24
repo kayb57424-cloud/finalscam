@@ -31,7 +31,7 @@ ALLOWED_HOSTS = [
     "scam-detector-1-m22a.onrender.com",
     "localhost",
     "127.0.0.1",
-    "finalscam-production.up.railway.app"
+    "finalscam-production.up.railway.app",
 ]
 
 # CORS & SESSION SETTINGS
